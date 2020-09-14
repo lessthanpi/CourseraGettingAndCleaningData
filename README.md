@@ -7,7 +7,9 @@ The output dataset is stored under "Final Tidy Data.txt"
 I did my best to add a lot of descriptive comments in the R file.
 
 For reference below the line is the project instructions from Coursera
+
 ######################################################################
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 Review criteria
