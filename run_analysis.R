@@ -164,7 +164,7 @@ tidy_Data <- mean_sd_data %>%
 head(tidy_Data)
 
 #output to wd
-write.table(tidy_Data, "./coursera wrangling/Final Tidy Data.txt", row.name=FALSE)
+write.table(tidy_Data, "./data/Final Tidy Data.txt", row.name=FALSE)
 
 ###########################################
 #End Part V and End of Project
